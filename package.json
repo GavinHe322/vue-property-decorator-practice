@@ -1,0 +1,23 @@
+{
+  "name": "vue-property-decorator-practice",
+  "version": "0.0.0",
+  "description": "vue-property-decorator 练习",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinHe322/vue-property-decorator-practice.git"
+  },
+  "keywords": [
+    "vue-property-decorator",
+    "vue",
+    "typescript"
+  ],
+  "author": "Gavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GavinHe322/vue-property-decorator-practice/issues"
+  },
+  "homepage": "https://github.com/GavinHe322/vue-property-decorator-practice#readme"
+}
